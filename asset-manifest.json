@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/122-proyecto/static/css/main.edb7a9b5.css",
+    "main.js": "/122-proyecto/static/js/main.18d2d47d.js",
+    "static/js/787.ad403f68.chunk.js": "/122-proyecto/static/js/787.ad403f68.chunk.js",
+    "static/media/Ada1.jpg": "/122-proyecto/static/media/Ada1.d18b1132f02bbe42a4b6.jpg",
+    "static/media/turing2.jpg": "/122-proyecto/static/media/turing2.289318db29ce705e231d.jpg",
+    "static/media/MargaretHamilton.png": "/122-proyecto/static/media/MargaretHamilton.7b4d58cb60859d9115d0.png",
+    "static/media/apolo11.jpeg": "/122-proyecto/static/media/apolo11.cc930b233bc3d5d158ca.jpeg",
+    "static/media/AdaLovelace.jpg": "/122-proyecto/static/media/AdaLovelace.a85710edd518b9bfd05d.jpg",
+    "static/media/BillGates.jpg": "/122-proyecto/static/media/BillGates.7a112afd416b76a95cf2.jpg",
+    "static/media/DennisRitchie.jpg": "/122-proyecto/static/media/DennisRitchie.fafcc529bde1e5a7bb19.jpg",
+    "static/media/descarga.jpg": "/122-proyecto/static/media/descarga.b41909add7d8876b4dcf.jpg",
+    "static/media/SteveJobs.jpg": "/122-proyecto/static/media/SteveJobs.0981e4fd453a506d1c78.jpg",
+    "static/media/AlanTuring.jpg": "/122-proyecto/static/media/AlanTuring.07dbf6d142a31053d107.jpg",
+    "static/media/GraceHopper.jpg": "/122-proyecto/static/media/GraceHopper.b06656297ca2cb24110b.jpg",
+    "static/media/linusTorvalds.jpg": "/122-proyecto/static/media/linusTorvalds.9f4089c9be522b2fc81b.jpg",
+    "static/media/TimBerners.jpg": "/122-proyecto/static/media/TimBerners.75c0f00557c75c5931d6.jpg",
+    "static/media/JhonMcCarthy.jpg": "/122-proyecto/static/media/JhonMcCarthy.cde55fe3dc752a74848f.jpg",
+    "index.html": "/122-proyecto/index.html",
+    "main.edb7a9b5.css.map": "/122-proyecto/static/css/main.edb7a9b5.css.map",
+    "main.18d2d47d.js.map": "/122-proyecto/static/js/main.18d2d47d.js.map",
+    "787.ad403f68.chunk.js.map": "/122-proyecto/static/js/787.ad403f68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edb7a9b5.css",
+    "static/js/main.18d2d47d.js"
+  ]
+}
